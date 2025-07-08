@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Inal!
 
 🎓 Computing Science student at SFU  
-📊 Passionate about data analysis, visualization & solving real-world problems  
+📊 Passionate about data analysis, data science, AI, and machine learning to solve real-world problems
 🔍 Seeking a **Fall 2025 internship**, ideally in data, BI, or analytics  
 
 ---
