@@ -15,6 +15,11 @@
 
 ## 📈 Featured Projects
 
+🔷 [Customer Churn Prediction (Jupyter)]  
+Cleaned and encoded raw telecom data using pandas, loops, and vectorization.  
+Performed EDA with seaborn and matplotlib to identify churn drivers.  
+Built Logistic Regression and Decision Tree models to predict customer churn risk and evaluated with confusion matrix and classification report.
+
 🔹 [Tech Job Salary Insights Dashboard (Tableau)]  
 Analyzed 78,000+ job postings across countries to visualize trends in tech salaries.
 
