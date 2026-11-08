@@ -1,24 +1,38 @@
 # 👋 Hi, I'm Inal!
 
-🎓 Computing Science student at SFU  
-📊 Passionate about data analysis, data science, AI, and machine learning to solve real-world problems
-🔍 Seeking a **Fall 2025 internship**, ideally in data, BI, or analytics  
+🎓 Computing Science student at Simon Fraser University, graduating December 2027  
+💼 Business Analyst at Teifi Digital, building data integrations, reports, and dashboards  
+📊 I use data analysis, data pipelines, and machine learning to solve real world problems, with a growing focus on finance and energy markets  
+🔍 Seeking a **Summer 2027 internship** in Toronto, in data, analytics, or finance technology  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, R, SQL, C, C++, Java  
-**Tools:** Tableau, Power BI, Excel, Jupyter, pandas, matplotlib, Git  
+**Languages:** Python, SQL, R, VBA, Java, C, C++  
+**Data and Analytics:** pandas, NumPy, scikit-learn, matplotlib, seaborn, Jupyter, Excel, Power BI, Tableau  
+**Databases and Tools:** SQLite, PostgreSQL, MySQL, Git, GitHub Actions, REST and GraphQL APIs, Linux  
 
 ---
 
 ## 📈 Featured Projects
 
+🔷 [Canadian Crude Differential Pipeline](https://github.com/inalali2/canadian-crude-differential) (Python, SQLite, GitHub Actions)  
+Built an automated ETL pipeline that loads 21 years of WTI and WCS Hardisty prices from the U.S. EIA and Government of Alberta APIs. It reruns safely, has a manual fallback for broken feeds, and runs 27 unit tests in continuous integration.  
+Ran structural break tests and historical VaR and expected shortfall by regime, correcting for autocorrelation that caused false breaks in simulation.
+
+🔷 [Coastal Ridge Wind: Financial Model and Automation](https://github.com/inalali2/bc-wind-project-finance) (Excel, VBA, Python)  
+Built a 30 year financial model for a 200 MW wind farm, with VBA macros that automate scenario runs, sensitivity tables, and an iterative debt and tax calculation.  
+Validated the Excel model line by line against an independent Python version with 34 automated tests, and solved a $70.93/MWh breakeven power price against the $74 awarded.
+
+🔷 [Alethia: Symptom to Condition Classifier](https://github.com/inalali2/alethia) (Python, scikit-learn)  
+Found hidden train and test leakage from duplicate records and deduplicated before splitting.  
+Compared KNN, Decision Tree, and Random Forest models, selecting Random Forest on macro F1.
+
 🔷 [Customer Churn Prediction (Jupyter)]  
 Cleaned and encoded raw telecom data using pandas, loops, and vectorization.  
 Performed EDA with seaborn and matplotlib to identify churn drivers.  
-Built Logistic Regression and Decision Tree models to predict customer churn risk and evaluated with confusion matrix and classification report.
+Built Logistic Regression and Decision Tree models to predict customer churn risk and evaluated them with a confusion matrix and classification report.
 
 🔹 [Tech Job Salary Insights Dashboard (Tableau)]  
 Analyzed 78,000+ job postings across countries to visualize trends in tech salaries.
@@ -26,28 +40,16 @@ Analyzed 78,000+ job postings across countries to visualize trends in tech salar
 🔹 [Data Analysis Notebook (Jupyter)]  
 Cleaned and visualized salary data using pandas, matplotlib, and seaborn.
 
-🔹 [Research Grant Management Database (SQL/MySQL)]
+🔹 [Research Grant Management Database (SQL/MySQL)]  
 Designed a relational database with ER diagrams, constraints, and triggers to manage research grant workflows.
 
-🔹 [Student Portal Simulation (Java)]
-Developed a Java-based console application simulating a student registration and grading system using object-oriented programming principles.
+🔹 [Student Portal Simulation (Java)]  
+Developed a Java console application simulating a student registration and grading system using object oriented programming principles.
 
 ---
 
-🔁 *Always open to learning, collaborating, and new opportunities in tech & data!*
+## 📫 Connect
 
+[LinkedIn](https://www.linkedin.com/in/inal-ali/)
 
-<!--
-**inalali2/inalali2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔁 *Always open to learning, collaborating, and new opportunities in data, analytics, and finance technology!*
