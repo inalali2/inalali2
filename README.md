@@ -29,7 +29,7 @@ Validated the Excel model line by line against an independent Python version wit
 Found hidden train and test leakage from duplicate records and deduplicated before splitting.  
 Compared KNN, Decision Tree, and Random Forest models, selecting Random Forest on macro F1.
 
-🔷 [Customer Churn Prediction (Jupyter)]  
+🔷 [Customer Churn Prediction (Jupyter)](https://github.com/inalali2/Customer-Churn-Prediction)]  
 Cleaned and encoded raw telecom data using pandas, loops, and vectorization.  
 Performed EDA with seaborn and matplotlib to identify churn drivers.  
 Built Logistic Regression and Decision Tree models to predict customer churn risk and evaluated them with a confusion matrix and classification report.
