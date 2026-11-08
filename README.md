@@ -29,22 +29,11 @@ Validated the Excel model line by line against an independent Python version wit
 Found hidden train and test leakage from duplicate records and deduplicated before splitting.  
 Compared KNN, Decision Tree, and Random Forest models, selecting Random Forest on macro F1.
 
-🔷 [Customer Churn Prediction (Jupyter)]  
+🔷 [Customer Churn Prediction (https://github.com/inalali2/Customer-Churn-Prediction)(Jupyter)]  
 Cleaned and encoded raw telecom data using pandas, loops, and vectorization.  
 Performed EDA with seaborn and matplotlib to identify churn drivers.  
 Built Logistic Regression and Decision Tree models to predict customer churn risk and evaluated them with a confusion matrix and classification report.
 
-🔹 [Tech Job Salary Insights Dashboard (Tableau)]  
-Analyzed 78,000+ job postings across countries to visualize trends in tech salaries.
-
-🔹 [Data Analysis Notebook (Jupyter)]  
-Cleaned and visualized salary data using pandas, matplotlib, and seaborn.
-
-🔹 [Research Grant Management Database (SQL/MySQL)]  
-Designed a relational database with ER diagrams, constraints, and triggers to manage research grant workflows.
-
-🔹 [Student Portal Simulation (Java)]  
-Developed a Java console application simulating a student registration and grading system using object oriented programming principles.
 
 ---
 
